@@ -1,0 +1,14 @@
+{
+  "name": "veterinaria-app",
+  "version": "1.0.0",
+  "description": "Sistema de gestión veterinaria",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.0"
+  }
+}
